@@ -26,6 +26,10 @@ Commercial monitoring software tends to be heavy, run unnecessary background pro
 - **History**: line chart showing CPU, RAM, and Disk usage over time
 - **Persistent preferences**: the user chooses which charts to display, and that choice is automatically saved for the next session
 
+### Use Case Diagram
+
+![Use Case Diagram](docs/diagram.png)
+
 ## 4. Data Structure
 
 The user's preferences about which charts should appear on screen are persisted in a `preferences.json` file, automatically created on first run and updated whenever the user changes an option in the sidebar:
