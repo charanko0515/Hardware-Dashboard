@@ -4,10 +4,10 @@
 
 **Hardware Monitor Dashboard** — a lightweight, real-time hardware monitoring dashboard built with Python, Streamlit and psutil.
 
-| Member | Role |
-|---|---|
-| Manoel Araújo Veloso Neto | Creator of the entire project |
-| Winston Lee | Advising professor |
+| Member | Role | Username |
+|---|---|---|
+| Manoel Araújo Veloso Neto | Creator of the entire project | [Charanko0515](https://github.com/winstonleedev) |
+| Winston Lee | Advising professor | [Winstonleedev](https://github.com/charanko0515) | 
 
 ## 2. Problem Solved
 
