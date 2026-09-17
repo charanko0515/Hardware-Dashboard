@@ -7,9 +7,7 @@ authors = [
     { name = "manoel", email = "manoel@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = [
-    "streamlit>=1.64.0",
-]
+dependencies = []
 
 [project.scripts]
 final-project = "final_project:main"
